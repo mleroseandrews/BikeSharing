@@ -51,10 +51,10 @@ The image above compares the users who actively subscribed vs the user that just
 
 ### Summary 
 
-From the analysis, the males were a major consumer of the bike sharing service and based on the hours the males were riding they seem to use bikes as transportation to and from work more than females.
+From the analysis, the males were a major consumer of the bike sharing service and based on the hours the males were riding the bikes as transportation to and from work more than females.
 
 Also there is a correlation between subscribers and the day of the week.   Subscribers utilize the bikes during the week and customers utilized the bikes more on the weekends.   This would suggest that the weekend usage is more tourist.
 
-Since the majority of rides are from subscriber which are to and from work then it suggests that the BikeShare will work in other cities that don't have as many visitors as New York.   You would need to analyze the map of Des Moines to know where to best place the bikes and how far the residents live in comparison to where they work.      It would also be useful to analyze the weather for Des Moines in comparison with the weather and usage in New York.   
+Since the majority of rides are from subscribers, going to and from work, then it suggests that the BikeShare will work in other cities that don't have as many tourist as New York.   You would need to analyze the map of Des Moines to know where to best place for the bikes and how far the residents live in comparison to where they work. It would also be useful to analyze the weather for Des Moines in comparison with the weather and usage in New York.   
 
 https://public.tableau.com/app/profile/emily.andrews6944/viz/BikeShareChallenge_16765823199880/BikeShare?publish=yes
